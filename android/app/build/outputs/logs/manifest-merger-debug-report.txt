@@ -1,0 +1,405 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:1:1-46:12
+INJECTED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:1:1-46:12
+INJECTED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:1:1-46:12
+INJECTED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:1:1-46:12
+MERGED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:1:1-46:12
+MERGED from [:device_info_plus] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\device_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:camera] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\camera\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-10:12
+MERGED from [:image_picker] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:qr_code_scanner] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\qr_code_scanner\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-10:12
+MERGED from [:android_alarm_manager_plus] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\android_alarm_manager_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\url_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-28:12
+MERGED from [:image_cropper] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\image_cropper\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:connectivity] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\connectivity\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:permission_handler] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\permission_handler\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\shared_preferences\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:uni_links] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\uni_links\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:4.2.0] C:\Users\youss\.gradle\caches\transforms-3\2650f9f8846cc904cb6b314eb5aaf68d\transformed\jetified-viewbinding-4.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.yalantis:ucrop:2.2.7] C:\Users\youss\.gradle\caches\transforms-3\060340a0fb972f3d9cd546b7bf239e83\transformed\jetified-ucrop-2.2.7\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\youss\.gradle\caches\transforms-3\ac7e91a113f8b26353be46fc3e179af2\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.1.0] C:\Users\youss\.gradle\caches\transforms-3\8cc8c34d9d8f5da6a7048cfcc9b89893\transformed\media-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\youss\.gradle\caches\transforms-3\cc520ec9737975f682093496b36c7855\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\youss\.gradle\caches\transforms-3\6035a167b27f47a284b3fe69d02ab704\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\youss\.gradle\caches\transforms-3\a941965fefa21760a3132dbfb4c0220c\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\youss\.gradle\caches\transforms-3\2a4ddb4d52e8a39c5d118b9635360164\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\youss\.gradle\caches\transforms-3\269794775e945ec1201c6d1e92efdd94\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\youss\.gradle\caches\transforms-3\4379a8089431a41fce0aa11e157772da\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\youss\.gradle\caches\transforms-3\cd2ddd11f1355c99445835eeab0b13ca\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\youss\.gradle\caches\transforms-3\1619eef0f4a6795dfea6743603d8a57a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\youss\.gradle\caches\transforms-3\9682e3bf193ee065bd54c2a17e9b030d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\youss\.gradle\caches\transforms-3\8f576725235955453b87aceda982a144\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\youss\.gradle\caches\transforms-3\ebfec1fd6c1d3146c4318849081699f6\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\youss\.gradle\caches\transforms-3\1bf1a85f62e849e1604c9a677b22dc5c\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\youss\.gradle\caches\transforms-3\2bc3894d079d782314bc2e34b1a3cc8b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\youss\.gradle\caches\transforms-3\066430cf3fa7fefb6ec56d145060d17b\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\youss\.gradle\caches\transforms-3\8698fa46ce19d72cffec53815bf59c59\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\youss\.gradle\caches\transforms-3\ba7eebd6ab8d0ea70c4009a7a043c2ec\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\youss\.gradle\caches\transforms-3\aef5d546ebcc2ef9aadbaa8048b35797\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\youss\.gradle\caches\transforms-3\84bad7715a76003b0b66bf24ca50b590\transformed\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\youss\.gradle\caches\transforms-3\51e66a13d3dc027922e728c1cb098949\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\youss\.gradle\caches\transforms-3\24fbe1a32fbbdfdaaba2e48d7cc6a7ee\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\youss\.gradle\caches\transforms-3\eaac5a090f98a2bd03ff8c1d852f669b\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\youss\.gradle\caches\transforms-3\8ef5b7d1afc43e3f28c459d1797db128\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\youss\.gradle\caches\transforms-3\7a031f19b163514d666a5b82bd34d851\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:17:1-56:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\youss\.gradle\caches\transforms-3\731b9709bd62102ca3d3ddf41e691960\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\youss\.gradle\caches\transforms-3\f40a933e20e8e2d5de5cf33a71c38fe5\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:2:5-50
+		INJECTED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:1:1-46:12
+		INJECTED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:1:1-46:12
+		INJECTED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:3:4-44:19
+MERGED from [:image_picker] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:url_launcher] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\url_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\url_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-26:19
+MERGED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-26:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\youss\.gradle\caches\transforms-3\ebfec1fd6c1d3146c4318849081699f6\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\youss\.gradle\caches\transforms-3\ebfec1fd6c1d3146c4318849081699f6\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\youss\.gradle\caches\transforms-3\aef5d546ebcc2ef9aadbaa8048b35797\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\youss\.gradle\caches\transforms-3\aef5d546ebcc2ef9aadbaa8048b35797\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:46:5-54:19
+MERGED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:46:5-54:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\youss\.gradle\caches\transforms-3\731b9709bd62102ca3d3ddf41e691960\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\youss\.gradle\caches\transforms-3\731b9709bd62102ca3d3ddf41e691960\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\youss\.gradle\caches\transforms-3\ebfec1fd6c1d3146c4318849081699f6\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:4:9-43
+	android:icon
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:5:9-43
+activity#com.youssefahmed.strykepay_merchant.MainActivity
+ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:6:9-34:20
+	android:launchMode
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:8:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:11:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:12:13-55
+	android:configChanges
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:10:13-163
+	android:theme
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:9:13-47
+	android:name
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:7:13-41
+meta-data#flutter_deeplinking_enabled
+ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:18:13-90
+	android:value
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:18:67-87
+	android:name
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:18:24-66
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:strykepaymerchantapp.co.uk+data:scheme:http+data:scheme:https
+ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:19:13-25:29
+	android:autoVerify
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:19:28-53
+action#android.intent.action.VIEW
+ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:21:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:22:17-78
+	android:name
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:22:27-75
+data
+ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:23:17-89
+	android:host
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:23:45-86
+	android:scheme
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:23:23-44
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:26:13-29:17
+	android:resource
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:28:15-52
+	android:name
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:27:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:32:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:37:9-39:33
+	android:value
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:39:13-30
+	android:name
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:38:13-44
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:40:8-43:70
+	android:screenOrientation
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:42:12-48
+	android:theme
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:43:12-68
+	android:name
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml:41:12-59
+uses-sdk
+INJECTED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml
+MERGED from [:device_info_plus] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\device_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:device_info_plus] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\device_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:camera] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\camera\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:camera] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\camera\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:qr_code_scanner] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\qr_code_scanner\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:67
+MERGED from [:qr_code_scanner] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\qr_code_scanner\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:67
+MERGED from [:android_alarm_manager_plus] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\android_alarm_manager_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:android_alarm_manager_plus] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\android_alarm_manager_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\url_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\url_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\image_cropper\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\image_cropper\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\connectivity\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\connectivity\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\permission_handler\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\permission_handler\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\shared_preferences\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\shared_preferences\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:uni_links] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\uni_links\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:uni_links] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\uni_links\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.0] C:\Users\youss\.gradle\caches\transforms-3\2650f9f8846cc904cb6b314eb5aaf68d\transformed\jetified-viewbinding-4.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.0] C:\Users\youss\.gradle\caches\transforms-3\2650f9f8846cc904cb6b314eb5aaf68d\transformed\jetified-viewbinding-4.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.yalantis:ucrop:2.2.7] C:\Users\youss\.gradle\caches\transforms-3\060340a0fb972f3d9cd546b7bf239e83\transformed\jetified-ucrop-2.2.7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.7] C:\Users\youss\.gradle\caches\transforms-3\060340a0fb972f3d9cd546b7bf239e83\transformed\jetified-ucrop-2.2.7\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\youss\.gradle\caches\transforms-3\ac7e91a113f8b26353be46fc3e179af2\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\youss\.gradle\caches\transforms-3\ac7e91a113f8b26353be46fc3e179af2\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\youss\.gradle\caches\transforms-3\8cc8c34d9d8f5da6a7048cfcc9b89893\transformed\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\youss\.gradle\caches\transforms-3\8cc8c34d9d8f5da6a7048cfcc9b89893\transformed\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\youss\.gradle\caches\transforms-3\cc520ec9737975f682093496b36c7855\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\youss\.gradle\caches\transforms-3\cc520ec9737975f682093496b36c7855\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\youss\.gradle\caches\transforms-3\6035a167b27f47a284b3fe69d02ab704\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\youss\.gradle\caches\transforms-3\6035a167b27f47a284b3fe69d02ab704\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\youss\.gradle\caches\transforms-3\a941965fefa21760a3132dbfb4c0220c\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\youss\.gradle\caches\transforms-3\a941965fefa21760a3132dbfb4c0220c\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\youss\.gradle\caches\transforms-3\2a4ddb4d52e8a39c5d118b9635360164\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\youss\.gradle\caches\transforms-3\2a4ddb4d52e8a39c5d118b9635360164\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\youss\.gradle\caches\transforms-3\269794775e945ec1201c6d1e92efdd94\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\youss\.gradle\caches\transforms-3\269794775e945ec1201c6d1e92efdd94\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\youss\.gradle\caches\transforms-3\4379a8089431a41fce0aa11e157772da\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\youss\.gradle\caches\transforms-3\4379a8089431a41fce0aa11e157772da\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\youss\.gradle\caches\transforms-3\cd2ddd11f1355c99445835eeab0b13ca\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\youss\.gradle\caches\transforms-3\cd2ddd11f1355c99445835eeab0b13ca\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\youss\.gradle\caches\transforms-3\1619eef0f4a6795dfea6743603d8a57a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\youss\.gradle\caches\transforms-3\1619eef0f4a6795dfea6743603d8a57a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\youss\.gradle\caches\transforms-3\9682e3bf193ee065bd54c2a17e9b030d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\youss\.gradle\caches\transforms-3\9682e3bf193ee065bd54c2a17e9b030d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\youss\.gradle\caches\transforms-3\8f576725235955453b87aceda982a144\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\youss\.gradle\caches\transforms-3\8f576725235955453b87aceda982a144\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\youss\.gradle\caches\transforms-3\ebfec1fd6c1d3146c4318849081699f6\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\youss\.gradle\caches\transforms-3\ebfec1fd6c1d3146c4318849081699f6\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\youss\.gradle\caches\transforms-3\1bf1a85f62e849e1604c9a677b22dc5c\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\youss\.gradle\caches\transforms-3\1bf1a85f62e849e1604c9a677b22dc5c\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\youss\.gradle\caches\transforms-3\2bc3894d079d782314bc2e34b1a3cc8b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\youss\.gradle\caches\transforms-3\2bc3894d079d782314bc2e34b1a3cc8b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\youss\.gradle\caches\transforms-3\066430cf3fa7fefb6ec56d145060d17b\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\youss\.gradle\caches\transforms-3\066430cf3fa7fefb6ec56d145060d17b\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\youss\.gradle\caches\transforms-3\8698fa46ce19d72cffec53815bf59c59\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\youss\.gradle\caches\transforms-3\8698fa46ce19d72cffec53815bf59c59\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\youss\.gradle\caches\transforms-3\ba7eebd6ab8d0ea70c4009a7a043c2ec\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\youss\.gradle\caches\transforms-3\ba7eebd6ab8d0ea70c4009a7a043c2ec\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\youss\.gradle\caches\transforms-3\aef5d546ebcc2ef9aadbaa8048b35797\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\youss\.gradle\caches\transforms-3\aef5d546ebcc2ef9aadbaa8048b35797\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\youss\.gradle\caches\transforms-3\84bad7715a76003b0b66bf24ca50b590\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\youss\.gradle\caches\transforms-3\84bad7715a76003b0b66bf24ca50b590\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\youss\.gradle\caches\transforms-3\51e66a13d3dc027922e728c1cb098949\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\youss\.gradle\caches\transforms-3\51e66a13d3dc027922e728c1cb098949\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\youss\.gradle\caches\transforms-3\24fbe1a32fbbdfdaaba2e48d7cc6a7ee\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\youss\.gradle\caches\transforms-3\24fbe1a32fbbdfdaaba2e48d7cc6a7ee\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\youss\.gradle\caches\transforms-3\eaac5a090f98a2bd03ff8c1d852f669b\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\youss\.gradle\caches\transforms-3\eaac5a090f98a2bd03ff8c1d852f669b\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\youss\.gradle\caches\transforms-3\8ef5b7d1afc43e3f28c459d1797db128\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\youss\.gradle\caches\transforms-3\8ef5b7d1afc43e3f28c459d1797db128\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\youss\.gradle\caches\transforms-3\7a031f19b163514d666a5b82bd34d851\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\youss\.gradle\caches\transforms-3\7a031f19b163514d666a5b82bd34d851\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\youss\.gradle\caches\transforms-3\731b9709bd62102ca3d3ddf41e691960\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\youss\.gradle\caches\transforms-3\731b9709bd62102ca3d3ddf41e691960\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\youss\.gradle\caches\transforms-3\f40a933e20e8e2d5de5cf33a71c38fe5\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\youss\.gradle\caches\transforms-3\f40a933e20e8e2d5de5cf33a71c38fe5\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\debug\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:qr_code_scanner] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\qr_code_scanner\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-64
+	android:targetSdkVersion
+		INJECTED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\youss\AndroidStudioProjects\strykepay_merchant\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.CAMERA
+ADDED from [:camera] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\camera\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:22:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from [:camera] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\camera\intermediates\merged_manifest\debug\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:camera] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\camera\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from [:camera] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\camera\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-68
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:14:17-67
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\url_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\url_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\url_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\url_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-74
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-63
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-76
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-15:40
+	android:exported
+		ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-97
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-25:20
+	android:exported
+		ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-101
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-24:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-79
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:20:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-84
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:21:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:22:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:23:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:23:25-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:connectivity] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\connectivity\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [:connectivity] C:\Users\youss\AndroidStudioProjects\strykepay_merchant\build\connectivity\intermediates\merged_manifest\debug\AndroidManifest.xml:7:22-76
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:34:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:37:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:40:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:43:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:47:9-53:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:50:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:49:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:51:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:53:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\youss\.gradle\caches\transforms-3\6f13b3a484d5e5d0cbb22f042246cf64\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:48:13-74
