@@ -96,7 +96,7 @@ addDevice(String email, String pin) async {
         "loginPin": pin,
         "os": "IOS",
         "version.securityPatch": "build.version.securityPatch",
-        "uniqueId": uniqueId,
+        "uniqueId": uniqueId.toString(),
         //"os": "Android",
       }));
   if (response.statusCode == 200) {
@@ -141,7 +141,7 @@ login(String email, String password) async {
     body: jsonEncode(<String, String>{
       "password": password,
       "email": email.toLowerCase(),
-      "uniqueId": uniqueId, //deviceData["id"].toString(),
+      "uniqueId": uniqueId.toString(), //deviceData["id"].toString(),
       //"os": "Android",
     }),
   );

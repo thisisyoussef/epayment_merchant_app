@@ -197,7 +197,7 @@ class _RegisterState extends State<Register> with TickerProviderStateMixin {
                                 //TODO: set error messages (setstate)
                                 var response = await signUp(localUserInfo);
                                 print(localUserInfo.email);
-                                print(localUserInfo.uniqueId);
+                                print(localUserInfo.uniqueId.toString());
                                 print("hello");
                                 print(response);
                                 if (response.toString() == "true") {

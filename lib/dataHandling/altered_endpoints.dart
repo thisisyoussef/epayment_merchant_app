@@ -152,7 +152,7 @@ getEmailLogin(String email, String password) async {
     body: jsonEncode(<String, String>{
       "password": password,
       "email": email.toLowerCase(),
-      "uniqueId": uniqueId, //deviceData["id"].toString(),
+      "uniqueId": uniqueId.toString(), //deviceData["id"].toString(),
       //"os": "Android",
     }),
   );
